@@ -2,34 +2,34 @@
 #include<stdio.h>
 int main()
 {
-//	±äÁ¿µÄÃüÃû£º
-//		1.ÓĞÒâÒå
-//		int age£»
-//		float salary£»
-//		2.Ãû×Ö±ØĞëÊÇ×ÖÄ»¡¢Êı×Ö¡¢ÏÂ»®Ïß×é³É£¬²»ÄÜÓĞÌØÊâ×Ö·û£¬Í¬Ê±²»ÄÜÒÔÊı×Ö¿ªÍ·¡£
+//	å˜é‡çš„å‘½åï¼š
+//		1.æœ‰æ„ä¹‰
+//		int ageï¼›
+//		float salaryï¼›
+//		2.åå­—å¿…é¡»æ˜¯å­—æ¯ã€æ•°å­—ã€ä¸‹åˆ’çº¿ç»„æˆï¼Œä¸èƒ½æœ‰ç‰¹æ®Šå­—ç¬¦ï¼ŒåŒæ—¶ä¸èƒ½ä»¥æ•°å­—å¼€å¤´ã€‚
 //		int 2b;//err
 //		int _2b;//ok
-//		3.±äÁ¿Ãû²»ÄÜÊÇ¹Ø¼ü×Ö
-//		³£¼û¹Ø¼ü×Ö
+//		3.å˜é‡åä¸èƒ½æ˜¯å…³é”®å­—
+//		å¸¸è§å…³é”®å­—
 		//auto   break   case   char   const   continue   default	  do   double   else   enum 
 		//extern   float   for   goto   if   int   long   register   return   short   signed
 		//sizeof   static   struct	switch   typedef   union	unsigned   void   volatile   while
 
 		//		         
 		//						 	 
-		//			for 		if else		char								const ³£ÊôĞÔ			extern ÉêÃ÷Íâ²¿·ûºÅµÄ
-		//			while		switch		short														register - ¼Ä´æÆ÷ --- ¿ÆÆÕ£ºÅô¸çÊÓÆµP20
-		//			do while	case		int															static ¾²Ì¬µÄ						 00:55:33¿ªÊ¼
-		//			break		default		long														return º¯Êı·µ»ØÖµ
+		//			for 		if else		char								const å¸¸å±æ€§			extern ç”³æ˜å¤–éƒ¨ç¬¦å·çš„
+		//			while		switch		short														register - å¯„å­˜å™¨ --- ç§‘æ™®ï¼šé¹å“¥è§†é¢‘P20
+		//			do while	case		int															static é™æ€çš„						 00:55:33å¼€å§‹
+		//			break		default		long														return å‡½æ•°è¿”å›å€¼
 		//			continue	goto		float
 		//									double
-		//									signed  ÓĞ·ûºÅµÄ
-		//									unsigned ÎŞ·ûºÅµÄ
-		//									enum - Ã¶¾Ù
-		//									struct - ½á¹¹Ìå
-		//									union - ÁªºÏÌå£¨¹²ÓÃÌå£©
-		//									void ÎŞ£¨º¯ÊıµÄ·µ»ØÀàĞÍ£¬º¯Êı²ÎÊı£©
-		//									sizeof - ¼ÆËã´óĞ¡
+		//									signed  æœ‰ç¬¦å·çš„
+		//									unsigned æ— ç¬¦å·çš„
+		//									enum - æšä¸¾
+		//									struct - ç»“æ„ä½“
+		//									union - è”åˆä½“ï¼ˆå…±ç”¨ä½“ï¼‰
+		//									void æ— ï¼ˆå‡½æ•°çš„è¿”å›ç±»å‹ï¼Œå‡½æ•°å‚æ•°ï¼‰
+		//									sizeof - è®¡ç®—å¤§å°
 		//									
 	//	
 
